@@ -1,0 +1,15 @@
+Tarefa: Github basico e branchs
+
+Crie um repositório
+
+Crie uma branch , coloque arquivos nela e depois faça um merge com a main.
+
+Coloque aqui o link para o repositorio onde  foi criado uma ou mais branchs.
+
+Coloque um print screen da tela do git onde mostra as branchs, (pode ser console) e depois a atualização da lista , apos apagar uma das branchs criadas
+
+Crie um projeto e coloque 3 ocorrencias uma em cada fase do projeto
+
+O que entregar:
+
+Os prints da tela com o que foi pedido acima, mostrando tambem o nome da conta utilizada.
